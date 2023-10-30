@@ -12,8 +12,8 @@
 * git branch - Muestra las ramas
 
 ## Comandos aprendidos en Microsoft
-* rm index.html
-* git rm index.html
-* git reset HEAD index.html
-* git checkout -- index.html
-* git revert --no-edit HEAD
+* rm index.html               --- Remuevo el archivo index.html
+* git rm index.html           --- Remuevo el archivo index.html desde el historial de git
+* git reset HEAD index.html   --- Vuelvo al historial donde tenía el index.html
+* git checkout -- index.html  --- Recupero el archivo index.html
+* git revert --no-edit HEAD   --- Revierto entre el último commit y el estado actual del proyecto (funciona tipo toggle)
