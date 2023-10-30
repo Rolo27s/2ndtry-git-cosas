@@ -10,3 +10,10 @@
 * git checkout "nombre-de-la-rama" - Me cambio a la rama "nombre-de-la-rama"
 * git checkout "#hash de commit" - Me voy a VER SOLO el commit (research... porque estoy en detached/head)
 * git branch - Muestra las ramas
+
+## Comandos aprendidos en Microsoft
+* rm index.html
+* git rm index.html
+* git reset HEAD index.html
+* git checkout -- index.html
+* git revert --no-edit HEAD
